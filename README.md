@@ -25,4 +25,4 @@ for a functional application. I have also been able to improve my ability to deb
 ## Mock-up
 Below is a mock-up of the page after my code-refactoring.
 
-![Horiseon webpage](horiseon-services.png)
+![Alt text](image.png)
