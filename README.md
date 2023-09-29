@@ -4,6 +4,8 @@ agency based in the UK. The application showcases their service offerings
 and the essential benefits they can bring to clients desiring  
 to improve their online presence and brand influence across social media.
 
+[Link](https://contentcommando.github.io/horiseon-challenge/)  to the modified application.
+
 ## Improvements
 I have made improvements to this application in order to enhance its **accessibility
 for search engines**. This also means that users with visual disability will 
